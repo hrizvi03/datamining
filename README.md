@@ -1,2 +1,7 @@
-# datamining
+
 Asbestos Data Mining Project
+
+I worked on CDPH Asbestos and Demolition Notification containing data on the notices received to the city department, along with additional information relating to the NOI including location information, property description, actual start and finish dates, field observations, and status of work. The analysis for this project seeks to find patterns in the data, to ultimately understand the trends lying in the Chicago area. Dataset Description and Significance: The dataset under consideration comprises of notices of intent for demolition and asbestos abatement submitted to the Department of Environment for work that started January, 1993 to December 2011, or to the Department of Public Health for work beginning on or after January 2012 (after DOE’s disbandment). It contains latitude/longitude coordinates of the sites through Chicago Open Data Portal’s geocoding engine, along with the owner of the applicant of the site, and the important dates. This dataset can help us analyze trends in the geographical distribution of asbestos, as well as demolition sites.
+
+The narrative from this data analysis aims to uncover not only the spatial distribution patterns of asbestos and the demolition locations, but also understand the dynamics from an urban development view. This data can be used to point out areas open for redevelopment and viewing the progress of the environmental and public health aspects of the city.
+
